@@ -1,0 +1,45 @@
+— What are some of the most beneficial municipal discoveries MuckRock has made over the years (in any jurisdiction)?
+
+With over 90,000 requests, it's hard to pick a few but I think over the past year, there's just been a ton of interest in policing issues. Some that always stick out to me are looking into asset forfeiture and police settlement data, which are almost always staggering to dig into. But different communities have different interests and concerns, and that's one of the things that's great about these laws — the broad acknowledgement that government should work for the people.
+
+— The reason I’m doing this story is that Portland has the lowest success rate of the 50 biggest American cities when it comes to public document requests via MuckRock. If someone submits a request to Portland’s city government through that platform, it has only a 9.7% chance of being successful — a worse chance than in any other large city I examined. Portland is also the second-slowest at responding to public document requests. Does that information surprise you? Why or why not?
+
+That does surprise me! I had never looked at that data and it's not what I would have guessed. One caveat is that FOIA requests are not apples to apples, so one city that gets very basic requests and another city that gets complex requests — or gets requested information that it doesn't possess — might skew statistics. 
+
+That said, a success rate under 10% is a sign that something's not working well in the process — are agencies being overwhelmed by requests, undertrained, understaffed? How do they view the public records process and the need to help inform the public about their work? A lot of agencies have an entrenched attitude of public records as a nuisance and so they don't build out the processes they need to do to really support it and most importantly, don't help the entire organization understand transparency is everyone's responsibility. 
+
+— What can Oregon do to strengthen its public records laws?
+
+This is a tough one. Based on what we've seen across the country, the key thing that usually determines how good a state with public records is is whether attorneys fees are awarded — a few cases that cost tens of thousands or even a hundred thousand has a way of helping agencies understand how important these laws are. But Oregon's laws, on the book, are pretty good, including the attorney's fees provisions.
+
+Some areas that could use improvement: A fully-empowered, independent administrative review process; clear timelines on response times; and administrative fines for delays or improper denials.
+
+— Failing that, what can Portland’s government do locally to improve its success rates and response times? What have you seen work well in other cities?
+
+I think the winning formula is a mix of process and culture.
+
+Process goes deep, well before the public records request is even filed. When agencies set up new systems and databases, or hire a new contractor, do they make sure it's easy to export data? Or better yet, find ways to make it proactively released from the start? Is there a records coordinator who feels empowered and respected by the rest of the departments in terms of training and setting up clear paths for releasing records? 
+
+And then culture, which I think starts at the top but which we have seen change when there's political will. Do people see records releases as a responsibility or a nuisance? Does the agency play favorites with some requesters over others? Do they make their policies clear and do they try to engage with various groups to make transparency just a legal obligation but a broader value in how they approach their work?
+
+Time and again, we see how this can feel deeply entrenched until there's clear messaging from the top and people realize that if you practice these muscles, there's a lot less downside to transparency than they might have imagined.
+
+— MuckRock’s footer says ©2010 - 2021. Is it safe to say the site was founded in 2010? How has the site changed over the last decade?
+
+Yes, we started in 2010! We continue to update our website and tools, so I think the big thing is just volume. I think we helped file about 100 requests our first year of operations, and now we help with about 300 a week. We've also merged with a variety of other transparency and journalism tools, and now offer a portfolio including DocumentCloud, oTranscribe, and FOIA Machine. 
+
+— Why are public document requests important?
+
+— What roadblocks do local governments sometimes put up that stand in the way of transparency?
+
+— Should people in Portland be discouraged from making requests? Why or why not?
+
+— Are there options for people who can’t afford to pay for MuckRock’s request tracking service but still want to make requests?
+
+Our goal is to make as much of our work open as possible, so even if you're not filing through MuckRock, you can still browse through tens of thousands of other requests that our users have made public and get inspired. You can search right from here: https://www.muckrock.com/foi/ We also have a free FOIA Slack chatroom where users and non-users alike trade tips, share wins, and build community: http://muckrock.com/slack/
+
+— Is it safe to say that MuckRock is among the most well-known and highly used public document tracking services?
+
+Yes, I think we're fairly unique as a tool geared towards journalists, researchers, and the general public. There are services that agencies use to help them manage the process that can work in similar ways on a per-agency basis, but our goal was to really build a collection that spanned agencies and jurisdictions so that people could compare different ideas and also how well — or not — different agencies were doing.
+
+— What else have I forgotten to ask? What extra statements do you want to make?

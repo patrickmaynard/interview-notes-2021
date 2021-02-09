@@ -1,0 +1,29 @@
+I took this issue up with our top city attorney that now oversees the PR process for the city, and she was able to shoot huge holes through much of the MuckRock data. The larger story is how MuckRock inaccurately tracks PRRs. Perhaps you should look into that. They’re making claims with their data, a lot of which is just plain inaccurate.
+ 
+She looked at some of the data elements you shared and pointed out a vast amount of holes in how they track things. 
+ 
+For example, their algorithms knock the City for not responding when the requester doesn’t make requests correctly and is told as much. It also frequently knocks the City for time when they are waiting for pay (which is not their fault) before releasing the information… which is part of Oregon’s Public Records Law. 
+ 
+Below are some examples she flagged randomly while working with me, and a brief explanation above for each one. In the end, most of all examples she opened were flawed. We only spent 10-15 minutes on these..
+
+ 
+Says awaiting response… we fulfilled on Feb. 13 and added documents.
+Oregon Open Records Act Request: Oregon Freedom of Information Act Request: Red Light Photo Enforcement Contract (Portland Office of the City Attorney) • MuckRock
+ 
+This is a letter—needs to go through GOV/QA portal but listed as ‘awaiting’. They were told to go through GOV/QA.
+Vacations During Jan 2020 and 2021 (Portland Police Bureau) • MuckRock
+ 
+Some that say waiting to respond is because we’re waiting for them to get back to us, as in this case.
+FOIA Request: Portland Police Bureau FOIA (public records request) logs for years 2017, 2018, 2019 and 2020 • MuckRock
+ 
+Administratively closed because they did not pay pursuant to time limitations.
+911 Domestic Violence Call Response Time 2019 vs. 2020 (Portland Police Bureau) • MuckRock
+ 
+WAITING PAYMENT: listed as waiting payment…
+Portland Police Academy Training Curriculum • MuckRock
+ 
+Listed as rejected, but administratively it’s closed because it’s a duplicate of another request.. Muckrock system failure that it’s making the same request twice.
+Taser Guidelines and Documentation (Portland Police Bureau) • MuckRock
+ 
+If you don’t pay within 60 days, it’s closer per
+FOIA Request: FOIA logs for years 2016, 2017, 2018, 2019 and 2020 • MuckRock
